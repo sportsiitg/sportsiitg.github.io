@@ -15647,12 +15647,12 @@ return P.I(V.e9(),$async$tV)
 case 2:q=b
 p=q.a
 o=J.i(p)
-s=!o.a7(p,"newData")?3:4
+s=!o.a7(p,"newData_xyz")?3:4
 break
 case 3:o.a8(p)
 s=5
 return P.I(V.yf().a8(0),$async$tV)
-case 5:case 4:q.cM("Bool","newData",!0)
+case 5:case 4:q.cM("Bool","newData_xyz",!0)
 n=o.a7(p,"booked")&&J.d(o.h(p,"booked"),!0)&&!0
 m=o.a7(p,"login")&&J.d(o.h(p,"login"),!0)&&!0
 s=!o.a7(p,"badminton")?6:7
