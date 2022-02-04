@@ -67653,7 +67653,7 @@ if(h==null)H.oW(i)
 else h.$1(i)
 g=H.dO(n)*60+H.lp(n)
 f=k*60+j
-if(g>=f-30&&g<=f){q.d=m
+if(g>=f-30&&g<=f+30){q.d=m
 break}}a3=J
 a4=J
 s=4
@@ -68271,7 +68271,7 @@ if(h==null)H.oW(i)
 else h.$1(i)
 g=H.dO(a)*60+H.lp(a)
 f=k*60+j
-if(g>=f-30&&g<=f){q.d=m
+if(g>=f-30&&g<=f+15){q.d=m
 break}}s=q.d!==-1?4:6
 break
 case 4:s=7
